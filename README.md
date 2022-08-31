@@ -121,7 +121,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Frameworks
 *Web development frameworks.*
-
+* [Flare Framework](https://github.com/flare-framework/Flare) - Flare framework is a PHP web framework that is simple ,powerful , fast , flexible, and secure with long-term support.
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
 * [Laminas](https://getlaminas.org/) - A framework comprised of individual components (previously Zend Framework).
 * [Laravel](https://laravel.com/) - A web application framework with expressive, elegant syntax.
